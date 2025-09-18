@@ -1,1 +1,10 @@
+ .rotate {
+      width: 100px; /* размер картинки */
+      height: 100px;
+      animation: spin 5s linear infinite;
+    }
 
+    @keyframes spin {
+      from { transform: rotate(0deg); }
+      to   { transform: rotate(360deg); }
+    }
