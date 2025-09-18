@@ -1,12 +1,46 @@
-<!DOCTYPE html>
-<html lang="ru">
+<!doctype html>
 <link rel="stylesheet" href="Assets/CSS/style.css">
-<head>
-  <meta charset="UTF-8">
-  <title>Мой сайт</title>
-</head>
-<body>
-  <h1>Добро пожаловать!</h1>
-  <p>Это мой сайт на GitHub Pages.</p>
+
+</main>
+
+
+<footer class="site-footer">
+<div class="container">
+<p>© <span id="year"></span> InfoPulse — Вдохновляющие знания.</p>
+</div>
+</footer>
+
+
+<script>
+// обновление года в футере
+document.getElementById('year').textContent = new Date().getFullYear();
+
+
+// Аккордеон: доступная реализация
+document.querySelectorAll('.accordion-toggle').forEach(btn => {
+btn.addEventListener('click', () => {
+const expanded = btn.getAttribute('aria-expanded') === 'true';
+// если хотим множественное раскрытие, просто переключаем состояние выбранной панели
+btn.setAttribute('aria-expanded', String(!expanded));
+btn.classList.toggle('open', !expanded);
+const panel = document.getElementById(btn.getAttribute('aria-controls'));
+if (!expanded) {
+panel.style.maxHeight = panel.scrollHeight + 'px';
+} else {
+panel.style.maxHeight = null;
+}
+});
+});
+
+
+// Устанавливаем начальные maxHeight для открытых (если какие-то изначально открыты)
+window.addEventListener('load', () => {
+document.querySelectorAll('.accordion-panel').forEach(p => {
+if (p.previousElementSibling && p.previousElementSibling.getAttribute('aria-expanded') === 'true') {
+p.style.maxHeight = p.scrollHeight + 'px';
+}
+});
+});
+</script>
 </body>
 </html>
