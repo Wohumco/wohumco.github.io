@@ -3,4 +3,4 @@
 <summary> grusha TETO </summary>
   shrimp
 </details>
-[Discord](https://github.com/Acitulen/CleanBase)
+[Discord](https://................)
