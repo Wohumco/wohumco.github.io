@@ -1,7 +1,8 @@
 // langs.js
 const translations = {
   en: {
-    Title: `Worldwide Humanic Coalition`,
+    HeaderTitle: `Worldwide Humanic Coalition`,
+    Title: `<div font-family="offside">Worldwide Humanic Coalition</div>`,
     GoalsAndSolutions: `1✧︎ Goals and Solutions`,
     GoalsAndSolutionsText: `
       Постройте своими руками мир, в котором хочется жить вечно! <br /> <br />
