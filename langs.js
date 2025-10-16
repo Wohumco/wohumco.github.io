@@ -1,7 +1,7 @@
 // langs.js
 const translations = {
   en: {
-    title: `Worldwide Humanic Coalition`,
+    Title: `Worldwide Humanic Coalition`,
     GoalsAndSolutions: `1✧︎ Goals and Solutions`,
     GoalsAndSolutionsText: `
       Постройте своими руками мир, в котором хочется жить вечно! <br /> <br />
@@ -119,7 +119,7 @@ const translations = {
 Давайте вместе начинать строить лучшее будущее уже сейчас!<br /><br /></p> `
   },
   ru: {
-    title: `Всемирная гуманистическая коалиция`,
+    Title: `Всемирная гуманистическая коалиция`,
     GoalsAndSolutions: `1✧︎ Цели и Решения`,
     GoalsAndSolutionsText: `
       Постройте своими руками мир, в котором хочется жить вечно! <br /> <br />
