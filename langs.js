@@ -90,7 +90,62 @@ Join us to learn more!
 We are happy to share ideas, details, and vision.
 If you have something to contribute, feel free to contact. 
 We're open to suggestions, discussion and ready to improve solutions.
-Let's start building a better future together right now!`
+Let's start building a better future together right now!`,
+    
+    AboutUs: `2✧︎ About Us`,
+    AboutUsText: 
+      `In development since 2018
+
+The more you think and dig deeper for truth, the clearer you realize —
+ living in today’s world is quite terrifying. Even more terrifying is that 
+so few people realize this, mainly due to how everything is currently structured.
+
+What started as a thought experiment and an attempt to imagine a better social system, it gradually evolved into a complex concept for a fundamentally new type of society.
+
+We propose and develop solutions across various aspects of human life,
+ in hopes to offer the best possible future for all of humanity.
+ We believe and hope that our efforts will protect people, restore peaceful life and bring much happiness, fill lives with joy, opportunities, confidence in the future, and mutual trust, erase obsolete and tyrannical restrictions, and open a new era of omnidirectional progress — preserving all the precious we cherich: life and nature, progress, our creations and culture — and finally achieve an unprecedented flourishing of civilization and  harmony in the world, finally becoming a worthy civilization in this universe.
+We want to celebrate life, prosperity, happiness, and progress, and truly dream of
+giving the world something unconditionally good and life-affirming.
+ 
+It may sound too good to be true, but we genuinely wish and strive to make this vision real. There do exist far crazier things in this world, some of which we, despite everything, accept as ordinary and normal. So why shouldn't we try to reach for our dreams, no matter how far it may seem at first glance ?
+
+Anything has to start somewhere. A foundation must be laid which can be gradually and greatly improved over time.
+ Currently, we are a small non-commercial group of like-minded people.
+ Though it will still take a lot of effort to bring this concept to life, we are ready to try.
+We would love to see you among us!
+ Build with your own hands a world you would want to live in forever.`,
+    
+    Roadmap: `3✧︎ Roadmap`,
+    RoadMapText: 
+      `Development Stages:
+
+Initial concept and solution development ✅
+
+ Development of representative media platforms 🔄 
+ Reuniting like-minded individuals
+
+ Securing funding  🔜 
+ Ideas refinement
+
+ Accumulation of a critical mass of capabilities, specialists, and technical solutions
+
+ Declaring full independence
+ Development and expansion`,
+    HowToJoin: `4✧︎ How to Join | Contacts | Needed Members`,
+    RoadMapText: `Google Form to Join (clickable link)
+
+ 📧 Email: wohumco@gmail.com
+
+We’re looking for:
+ just ordinary PEOPLE, ENTHUSIASTS, and SPECIALISTS from various fields who want to help change the world for the better.
+ Those who refuse to passively accept the silent catastrophe unfolding around us.
+ Caring people ready to cooperate to FIX OUR PRESENT and BUILD A BETTER FUTURE for everyone.
+ We welcome everyone who sincerely wants to help!`,
+
+  MembersList: `5✧︎ Members List`,
+  MembersListText: `(Names optional — otherwise just a chosen nickname)`
+    
   },
   ru: {
     HeadTitle: `Всемирная гуманистическая коалиция`,
@@ -209,6 +264,7 @@ Let's start building a better future together right now!`
 Присоединяйтесь чтобы узнать больше! <br />
 Мы будем рады поделиться идеями, подробностями и видением <br />
 А если Вам есть что добавить, мы открыты для предложений и готовы к доработке решений.<br />
-Давайте вместе начинать строить лучшее будущее уже сейчас!<br /><br /> `
+Давайте вместе начинать строить лучшее будущее уже сейчас!<br /><br /> `,
+    AboutUs: `О нас`
   }
 };
