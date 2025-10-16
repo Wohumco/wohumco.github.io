@@ -117,7 +117,7 @@ We would love to see you among us!
  Build with your own hands a world you would want to live in forever.`,
     
     Roadmap: `3✧︎ Roadmap`,
-    RoadMapText: 
+    RoadmapText: 
       `Development Stages:
 
 Initial concept and solution development ✅
@@ -133,7 +133,7 @@ Initial concept and solution development ✅
  Declaring full independence
  Development and expansion`,
     HowToJoin: `4✧︎ How to Join | Contacts | Needed Members`,
-    RoadMapText: `<a href="https://docs.google.com/forms/d/e/1FAIpQLSczXyvpyWCtiCsGHqSbETrsUWAIl1W9ojQP4NIai0qhhcM7uw/viewform?usp=header">Google Form to Join</a> <br /><br />
+    HowToJoinText: `<a href="https://docs.google.com/forms/d/e/1FAIpQLSczXyvpyWCtiCsGHqSbETrsUWAIl1W9ojQP4NIai0qhhcM7uw/viewform?usp=header">Google Form to Join</a> <br /><br />
 
  📧 Email: wohumco@gmail.com
 
@@ -299,7 +299,7 @@ We’re looking for:
 Постройте своими руками мир, в котором хочется жить вечно! <br /><br />`,
     
     Roadmap: `3✧︎ Дорожная карта`,
-    RoadMapText: 
+    RoadmapText: 
       `Этапы развития: <br /><br />
 Создание и продумывание общей идеи и решений ✅<br /><br />
 Развитие репрезентирующих медиаресурсов; 🔄<br />
@@ -310,7 +310,7 @@ We’re looking for:
 Объявление полноценной независимости; <br />
 Развитие и распространение`,
     HowToJoin: `4✧︎ Как присоединиться | Контакты | В ком мы нуждаемся`,
-    RoadMapText: `<a href="https://docs.google.com/forms/d/e/1FAIpQLSczXyvpyWCtiCsGHqSbETrsUWAIl1W9ojQP4NIai0qhhcM7uw/viewform?usp=header">Гугл форма на участие</a> <br /><br />
+    HowToJoinText: `<a href="https://docs.google.com/forms/d/e/1FAIpQLSczXyvpyWCtiCsGHqSbETrsUWAIl1W9ojQP4NIai0qhhcM7uw/viewform?usp=header">Гугл форма на участие</a> <br /><br />
       
       e-mail:  wohumco@gmail.com<br /><br />
     
