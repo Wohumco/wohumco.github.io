@@ -2,7 +2,7 @@
 const translations = {
   en: {
     HeadTitle: `Worldwide Humanic Coalition`,
-    Title: `<div font-family="offside">Worldwide Humanic Coalition</div>`,
+    Title: `<div style="font-family: offside;">Worldwide Humanic Coalition</div>`,
     GoalsAndSolutions: `1✧︎ Goals and Solutions`,
     GoalsAndSolutionsText: `
       Постройте своими руками мир, в котором хочется жить вечно! <br /> <br />
