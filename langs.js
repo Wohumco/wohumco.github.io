@@ -5,143 +5,173 @@ const translations = {
     Title: `<div style="font-family: offside;">Worldwide Humanic Coalition</div>`,
     GoalsAndSolutions: `1✧︎ Goals and Solutions`,
     GoalsAndSolutionsText: `
-      Build with your own hands a world you would want to live in forever!
+      Build with your own hands a world you would want to live in forever! <br /> <br />
 
-We strive toward a constant, long-term GOAL — to reach a fundamentally new and stable model of civilization, where all sentient beings without exception live in well-being, peace, and prosperity, happily and carefree, enjoying freedom and opportunities for growth in every aspect of life, freely expanding the horizons of understanding reality, and all together achieving an unprecedented flourishing of civilization and harmony in the world.
+We strive toward a constant, long-term GOAL — to reach a fundamentally new and stable model of civilization, <br />
+where all sentient beings without exception live in well-being, peace, and prosperity, happily and carefree,  <br />
+enjoying freedom and opportunities for growth in every aspect of life, freely expanding the horizons of understanding  <br />
+reality, and all together achieving an unprecedented flourishing of civilization and harmony in the world. <br /> <br />
 
-We aim to protect people, improve our lives, and secure the fundamental human freedoms, rooted in our very nature — as truly humane, inherently pure, and sincerely caring human beings, and solve our shared problems and overcome difficulties together.
+We aim to protect people, improve our lives, and secure the fundamental human freedoms, <br />
+rooted in our very nature — as truly humane, inherently pure, and sincerely caring human beings, <br />
+and solve our shared problems and overcome difficulties together. <br /> <br />
 
-Guided by the principles of:
- Humanism and Benevolence, Compassion, Care and Mutual Support,
- Justice and Prudence, Equality, Solidarity and Mutual Respect,
- Progressiveness, Openness, and Transparency.
-With endless love and belief in humanity, hope for a happy future, and our best wishes,
- The First Cogitor
+Guided by the principles of: <br />
+ Humanism and Benevolence, Compassion, Care and Mutual Support, <br />
+ Justice and Prudence, Equality, Solidarity and Mutual Respect, <br />
+ Progressiveness, Openness, and Transparency. <br />
+With endless love and belief in humanity, hope for a happy future, and our best wishes, <br />
+ The First Cogitor <br /> <br />
 
-CORE SOLUTIONS:
-Abolition of the monetary system and all its equivalents.
- All resources are to be considered the EQUALLY SHARED COMMON WEALTH of humanity. 
-(No one will ever again be deprived of anything based on someone's absolute ownership or conquest. There do not exist any abstract entities like “the capital” or “the economy” that "benefit" from widespread human suffering. There have only ever been real, individual beneficiaries. Progress, optimization, and change must now lead to equal quality of life improvements for every individual and society as a whole.)
+CORE SOLUTIONS: <br />
+Abolition of the monetary system and all its equivalents. <br />
+ All resources are to be considered the EQUALLY SHARED COMMON WEALTH of humanity.  <br />
+(No one will ever again be deprived of anything based on someone's absolute ownership or conquest. <br />
+There do not exist any abstract entities like “the capital” or “the economy” that "benefit" from <br />
+widespread human suffering. There have only ever been real, individual beneficiaries. Progress, optimization, <br />
+and change must now lead to equal quality of life improvements for every individual and society as a whole.) <br /> <br />
 
-All the people do have free access to all essential goods.
- Every person has the inalienable right to the FULL and UNCONDITIONAL satisfaction of all basic needs for a good quality life.
- (This eliminates the vast majority of motivations for crimes at all levels.)
+All the people do have free access to all essential goods. <br />
+ Every person has the inalienable right to the FULL and UNCONDITIONAL satisfaction of all basic needs for a good quality life. <br />
+ (This eliminates the vast majority of motivations for crimes at all levels.) <br /> <br />
 
-EXTENSIVE HUMAN RIGHTS which are universally recognized and protected.
-ERADICATION OF OPPRESSION and DIVISION of any kind, and ABOLITION OF EXPLOITATION of humans in all forms.
-Universal LEGISLATIVE JUSTICE and FULL TRANSPARENCY of all actions and procedures.
-FULL PUBLIC ACCESSIBILITY of all (non-personal) INFORMATION for awareness and use across all fields — with authorship preserved.
-FREEDOM OF SPEECH and EXPRESSION.
-Maximum ELIMINATION OF BUREAUCRACY, punitive paperwork collecting, and formalism.
-No pressure on individual personality — the freedom to build your own happiness, dreams, and purpose.
-Abolition of inhumane ideologies, solutions, and methods.
-No wasteful spending of resources on questionable or pointless sectors.
-Filtering, optimization, and removal of harmful, trash, or useless web content.
+EXTENSIVE HUMAN RIGHTS which are universally recognized and protected. <br />
+ERADICATION OF OPPRESSION and DIVISION of any kind, and ABOLITION OF EXPLOITATION of humans in all forms. <br />
+Universal LEGISLATIVE JUSTICE and FULL TRANSPARENCY of all actions and procedures. <br />
+FULL PUBLIC ACCESSIBILITY of all (non-personal) INFORMATION for awareness and use across  <br />
+all fields — with authorship preserved. <br />
+FREEDOM OF SPEECH and EXPRESSION. <br />
+Maximum ELIMINATION OF BUREAUCRACY, punitive paperwork collecting, and formalism. <br />
+No pressure on individual personality — the freedom to build your own happiness, dreams, and purpose. <br />
+Abolition of inhumane ideologies, solutions, and methods. <br />
+No wasteful spending of resources on questionable or pointless sectors. <br />
+Filtering, optimization, and removal of harmful, trash, or useless web content. <br /> <br />
 
-Strong social support systems accompanying people from childhood through all life stages: socialization, relationships, education, work, conflict resolution,
- and the creation of a comfortable living environment.
+Strong social support systems accompanying people from childhood through all life stages: socialization, <br />
+relationships, education, work, conflict resolution, <br />
+ and the creation of a comfortable living environment. <br /> <br />
 
-Reformed, universally accessible, and completely free education at all levels,
- aimed at raising more humane and conscious individuals, fostering a desire to grow and maintain peace and harmony, outside and within.
- Focus is placed on real, lasting knowledge and practical skills, abolishment of grading systems. (People can learn at their own pace, however long it takes, graduating more prepared for life and profession.)
+Reformed, universally accessible, and completely free education at all levels, <br />
+ aimed at raising more humane and conscious individuals, fostering a desire to grow and <br />
+ maintain peace and harmony, outside and within. <br />
+ Focus is placed on real, lasting knowledge and practical skills, abolishment of grading systems. <br />
+ (People can learn at their own pace, however long it takes, graduating more prepared for life and profession.) <br /> <br />
 
-Strong, Flexible and Individualized, completely free healthcare and medical support.
- Humane therapy, support, and rehabilitation programs for deviant individuals, instead of stigmatization and social exile.
+Strong, Flexible and Individualized, completely free healthcare and medical support. <br />
+ Humane therapy, support, and rehabilitation programs for deviant individuals, instead of  <br />
+ stigmatization and social exile. <br /> <br />
 
-Environmental care and ecosystem welfare.
- Strict ecological control, territory upkeep, waste reduction and ecological footprint minimization.
- Advanced agronomy and more ethical and safe food sources.
- Complete shift to non-toxic production and safe, eco-friendly alternatives
- (No more cases where megacorporations poison entire ecosystems).
- Use of exclusively clean, truly non-harmful energy sources and methods of energy extraction (which actually do no harm to nature, not just those marketed as “green”). Advanced solutions in field of of truly sustainable energy sources:
- solar, wind, tides and currents, geothermal heat, and cold fusion.
+Environmental care and ecosystem welfare. <br />
+ Strict ecological control, territory upkeep, waste reduction and ecological footprint minimization. <br />
+ Advanced agronomy and more ethical and safe food sources. <br />
+ Complete shift to non-toxic production and safe, eco-friendly alternatives <br />
+ (No more cases where megacorporations poison entire ecosystems). <br />
+ Use of exclusively clean, truly non-harmful energy sources and methods of energy extraction <br />
+ (which actually do no harm to nature, not just those marketed as “green”).  <br />
+ Advanced solutions in field of of truly sustainable energy sources: <br />
+ solar, wind, tides and currents, geothermal heat, and cold fusion. <br /> <br />
 
-Maximum automation of all sectors (since imitative full employment is no longer necessary when people aren't forced to have a job to survive.)
- No more planned obsolescence or intentional product breakdowns (this parasitic capitalist relic is obsolete). Products will be made to be as durable, high-quality, independent and user-friendly as possible,
- Use of previously discarded clever and practical technologies and solutions, rejected due to their unprofitability for the capitalist machine and excessive progressiveness (a product that is too good and cannot be replaced/improved and sold again).
+Maximum automation of all sectors (since imitative full employment is no longer necessary when  <br />
+people aren't forced to have a job to survive.) <br />
+ No more planned obsolescence or intentional product breakdowns (this parasitic capitalist relic is obsolete).  <br />
+ Products will be made to be as durable, high-quality, independent and user-friendly as possible, <br />
+ Use of previously discarded clever and practical technologies and solutions, rejected due to their  <br />
+ unprofitability for the capitalist machine and excessive progressiveness  <br />
+ (a product that is too good and cannot be replaced/improved and sold again). <br /> <br />
 
-Universities, their Researches and Developments will no longer need to fight for funding, permissions, or experts, dramatically accelerating scientific progress.
- We support PROGRESS AND HOLISTIC IMPROVEMENT OF LIFE QUALITY,
- not being guided by blind and inhumane profit maximization.
+Universities, their Researches and Developments will no longer need to fight for  <br />
+funding, permissions, or experts, dramatically accelerating scientific progress. <br />
+ We support PROGRESS AND HOLISTIC IMPROVEMENT OF LIFE QUALITY, <br />
+ not being guided by blind and inhumane profit maximization. <br /> <br />
 
-Corporations can open branches and produce tech and products under the special conditions of the new economic zone. 
+Corporations can open branches and produce tech and products under the special conditions of the new economic zone.  <br /> <br />
 
-Jobs are offered according to personal preferences and needs,
-but people are not forced to work to survive. It's impossible to rest forever,
-but a favorite activity, on the contrary, brings joy and a sense of fulfillment.
-Labor is distributed according to meritocratic principles, where tasks match abilities, and those capable of helping unite their efforts to achieve common goals.
-Unemployed people may rest, be occupied by crafts, art , housework, volunteering,
-hobbies, self-development, travel, recreation, etc.
-or voluntarily redeployed to chosen positions.
+Jobs are offered according to personal preferences and needs, <br />
+but people are not forced to work to survive. It's impossible to rest forever, <br />
+but a favorite activity, on the contrary, brings joy and a sense of fulfillment. <br />
+Labor is distributed according to meritocratic principles, where tasks match abilities, and  <br />
+those capable of helping unite their efforts to achieve common goals. <br />
+Unemployed people may rest, be occupied by crafts, art , housework, volunteering, <br />
+hobbies, self-development, travel, recreation, etc. <br />
+or voluntarily redeployed to chosen positions. <br /> <br />
 
-Our current scientific areas of interest are: 
-Radical  lifetime extension and and quality of life improvement, medical advancements and expanding livable space.
-Study of the fundamental nature of reality.
-Study, expansion, and improvement of human mind and body capabilities .
-Development of methods for depolluting, preserving, and restoring the environment.
-Development of methods for protecting civilization from large-scale threats, human habitats diversification.
-Research of advanced and unconventional energy sources, as well as the improvement  of existing ones.
-Research of advanced and unconventional methods of transportation
-and movement, of existing ones.
-Study of alternative social structure  models,
-and more.
+Our current scientific areas of interest are:  <br />
+Radical  lifetime extension and and quality of life improvement, medical  <br />
+advancements and expanding livable space. <br />
+Study of the fundamental nature of reality. <br />
+Study, expansion, and improvement of human mind and body capabilities . <br />
+Development of methods for depolluting, preserving, and restoring the environment. <br />
+Development of methods for protecting civilization from large-scale threats, human habitats diversification. <br />
+Research of advanced and unconventional energy sources, as well as the improvement  of existing ones. <br />
+Research of advanced and unconventional methods of transportation <br />
+and movement, of existing ones. <br />
+Study of alternative social structure  models, <br />
+and more. <br /> <br />
 
-Join us to learn more!
-We are happy to share ideas, details, and vision.
-If you have something to contribute, feel free to contact. 
-We're open to suggestions, discussion and ready to improve solutions.
-Let's start building a better future together right now!`,
+Join us to learn more! <br />
+We are happy to share ideas, details, and vision. <br />
+If you have something to contribute, feel free to contact.  <br />
+We're open to suggestions, discussion and ready to improve solutions. <br />
+Let's start building a better future together right now! <br />`,
     
     AboutUs: `2✧︎ About Us`,
     AboutUsText: 
-      `In development since 2018
+      `In development since 2018 <br /> <br />
 
-The more you think and dig deeper for truth, the clearer you realize —
- living in today’s world is quite terrifying. Even more terrifying is that 
-so few people realize this, mainly due to how everything is currently structured.
+The more you think and dig deeper for truth, the clearer you realize — <br />
+ living in today’s world is quite terrifying. Even more terrifying is that  <br />
+so few people realize this, mainly due to how everything is currently structured. <br /> <br />
 
-What started as a thought experiment and an attempt to imagine a better social system, it gradually evolved into a complex concept for a fundamentally new type of society.
+What started as a thought experiment and an attempt to imagine a better social system,  <br />
+it gradually evolved into a complex concept for a fundamentally new type of society. <br /> <br />
 
-We propose and develop solutions across various aspects of human life,
- in hopes to offer the best possible future for all of humanity.
- We believe and hope that our efforts will protect people, restore peaceful life and bring much happiness, fill lives with joy, opportunities, confidence in the future, and mutual trust, erase obsolete and tyrannical restrictions, and open a new era of omnidirectional progress — preserving all the precious we cherich: life and nature, progress, our creations and culture — and finally achieve an unprecedented flourishing of civilization and  harmony in the world, finally becoming a worthy civilization in this universe.
-We want to celebrate life, prosperity, happiness, and progress, and truly dream of
-giving the world something unconditionally good and life-affirming.
+We propose and develop solutions across various aspects of human life, <br />
+ in hopes to offer the best possible future for all of humanity. <br />
+ We believe and hope that our efforts will protect people, restore peaceful life and  <br />
+ bring much happiness, fill lives with joy, opportunities, confidence in the future,  <br />
+ and mutual trust, erase obsolete and tyrannical restrictions, and open a new era of  <br />
+ omnidirectional progress — preserving all the precious we cherich: life and nature,  <br />
+ progress, our creations and culture — and finally achieve an unprecedented flourishing of  <br />
+ civilization and  harmony in the world, finally becoming a worthy civilization in this universe. <br />
+We want to celebrate life, prosperity, happiness, and progress, and truly dream of <br />
+giving the world something unconditionally good and life-affirming. <br /> <br />
  
-It may sound too good to be true, but we genuinely wish and strive to make this vision real. There do exist far crazier things in this world, some of which we, despite everything, accept as ordinary and normal. So why shouldn't we try to reach for our dreams, no matter how far it may seem at first glance ?
+It may sound too good to be true, but we genuinely wish and strive to make this vision real. <br />
+There do exist far crazier things in this world, some of which we, despite everything, accept as  <br />
+ordinary and normal. So why shouldn't we try to reach for our dreams, no matter how far it may seem at first glance ? <br /> <br />
 
-Anything has to start somewhere. A foundation must be laid which can be gradually and greatly improved over time.
- Currently, we are a small non-commercial group of like-minded people.
- Though it will still take a lot of effort to bring this concept to life, we are ready to try.
-We would love to see you among us!
- Build with your own hands a world you would want to live in forever.`,
+Anything has to start somewhere. A foundation must be laid which can be gradually and greatly improved over time. <br />
+ Currently, we are a small non-commercial group of like-minded people. <br />
+ Though it will still take a lot of effort to bring this concept to life, we are ready to try. <br />
+We would love to see you among us! <br />
+ Build with your own hands a world you would want to live in forever. <br />`,
     
     Roadmap: `3✧︎ Roadmap`,
     RoadmapText: 
-      `Development Stages:
+      `Development Stages: <br /> <br />
 
-Initial concept and solution development ✅
+Initial concept and solution development ✅ <br /> <br />
 
- Development of representative media platforms 🔄 
- Reuniting like-minded individuals
+ Development of representative media platforms 🔄  <br />
+ Reuniting like-minded individuals <br /> <br />
 
- Securing funding  🔜 
- Ideas refinement
+ Securing funding  🔜  <br />
+ Ideas refinement <br /> <br />
 
- Accumulation of a critical mass of capabilities, specialists, and technical solutions
+ Accumulation of a critical mass of capabilities, specialists, and technical solutions <br /> <br />
 
- Declaring full independence
- Development and expansion`,
+ Declaring full independence <br />
+ Development and expansion <br />`,
     HowToJoin: `4✧︎ How to Join | Contacts | Needed Members`,
     HowToJoinText: `<a href="https://docs.google.com/forms/d/e/1FAIpQLSczXyvpyWCtiCsGHqSbETrsUWAIl1W9ojQP4NIai0qhhcM7uw/viewform?usp=header">Google Form to Join</a> <br /><br />
 
- 📧 Email: wohumco@gmail.com
+ 📧 Email: wohumco@gmail.com <br /> <br />
 
-We’re looking for:
- just ordinary PEOPLE, ENTHUSIASTS, and SPECIALISTS from various fields who want to help change the world for the better.
- Those who refuse to passively accept the silent catastrophe unfolding around us.
- Caring people ready to cooperate to FIX OUR PRESENT and BUILD A BETTER FUTURE for everyone.
- We welcome everyone who sincerely wants to help!`,
+We’re looking for: <br />
+ just ordinary PEOPLE, ENTHUSIASTS, and SPECIALISTS from various fields who want to help change the world for the better. <br />
+ Those who refuse to passively accept the silent catastrophe unfolding around us. <br />
+ Caring people ready to cooperate to FIX OUR PRESENT and BUILD A BETTER FUTURE for everyone. <br />
+ We welcome everyone who sincerely wants to help! <br />`,
 
   MembersList: `5✧︎ Members List`,
   MembersListText: `(Names optional — otherwise just a chosen nickname)`
