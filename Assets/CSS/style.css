@@ -30,10 +30,22 @@
  to   { transform: rotate(360deg); }
 }
 
-.MinorText {
- color: #0035A1;
+.MinorTextEn {
+  font-family: offside;
+  color: #0035A1;
 }
 
-.MajorText {
-color: #00d796;
+.MajorTextEn {
+  font-family: offside;
+  color: #00d796;
+}
+
+.MinorTextRu {
+  font-family: infant;
+  color: #0035A1;
+}
+
+.MajorTextRu {
+  font-family: infant;
+  color: #00d796;
 }
