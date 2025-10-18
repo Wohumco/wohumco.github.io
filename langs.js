@@ -3,9 +3,13 @@ const translations = {
   en: {
     HeadTitle: `Worldwide Humanic Coalition`,
     Title: `<div style="font-family: offside;">Worldwide Humanic Coalition</div>`,
-    GoalsAndSolutions: `1✧︎ Goals and Solutions`,
-    GoalsAndSolutionsText: `
-      Build with your own hands a world you would want to live in forever! <br /> <br />
+    GoalsAndSolutions: 
+`
+<details open>
+<summary style="font-size: 2em;" class="MajorTextEn" >1✧︎ Goals and Solutions</summary>
+<p class="MinorTextEn">
+
+Build with your own hands a world you would want to live in forever! <br /> <br />
 
 We strive toward a constant, long-term GOAL — to reach a fundamentally new and stable model of civilization, <br />
 where all sentient beings without exception live in well-being, peace, and prosperity, happily and carefree,  <br />
@@ -112,11 +116,18 @@ Join us to learn more! <br />
 We are happy to share ideas, details, and vision. <br />
 If you have something to contribute, feel free to contact.  <br />
 We're open to suggestions, discussion and ready to improve solutions. <br />
-Let's start building a better future together right now! <br />`,
+Let's start building a better future together right now! <br />
+</p>
+</details>
+`,
     
-    AboutUs: `2✧︎ About Us`,
-    AboutUsText: 
-      `In development since 2018 <br /> <br />
+    AboutUs: 
+`
+<details open>
+<summary style="font-size: 2em;" class="MajorTextEn" >2✧︎ About Us</summary>
+<p class="MinorTextEn">
+
+In development since 2018 <br /> <br />
 
 The more you think and dig deeper for truth, the clearer you realize — <br />
  living in today’s world is quite terrifying. Even more terrifying is that  <br />
@@ -144,11 +155,18 @@ Anything has to start somewhere. A foundation must be laid which can be graduall
  Currently, we are a small non-commercial group of like-minded people. <br />
  Though it will still take a lot of effort to bring this concept to life, we are ready to try. <br />
 We would love to see you among us! <br />
- Build with your own hands a world you would want to live in forever. <br />`,
+ Build with your own hands a world you would want to live in forever. <br />
+
+</p>
+</details>
+`,
     
-    Roadmap: `3✧︎ Roadmap`,
-    RoadmapText: 
-      `Development Stages: <br /> <br />
+    Roadmap: `
+<details open>
+<summary style="font-size: 2em;" class="MajorTextEn" >3✧︎ Roadmap</summary>
+<p class="MinorTextEn">
+
+Development Stages: <br /> <br />
 
 Initial concept and solution development ✅ <br /> <br />
 
@@ -161,9 +179,18 @@ Initial concept and solution development ✅ <br /> <br />
  Accumulation of a critical mass of capabilities, specialists, and technical solutions <br /> <br />
 
  Declaring full independence <br />
- Development and expansion <br />`,
-    HowToJoin: `4✧︎ How to Join | Contacts | Needed Members`,
-    HowToJoinText: `<a href="https://docs.google.com/forms/d/e/1FAIpQLSczXyvpyWCtiCsGHqSbETrsUWAIl1W9ojQP4NIai0qhhcM7uw/viewform?usp=header">Google Form to Join</a> <br /><br />
+ Development and expansion <br />
+ 
+</p>
+</details>
+ `,
+    HowToJoin: 
+`
+<details open>
+<summary style="font-size: 2em;" class="MajorTextEn" >4✧︎ How to Join | Contacts | Needed Members</summary>
+<p class="MinorTextEn">
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSczXyvpyWCtiCsGHqSbETrsUWAIl1W9ojQP4NIai0qhhcM7uw/viewform?usp=header">Google Form to Join</a> <br /><br />
 
  📧 Email: wohumco@gmail.com <br /> <br />
 
@@ -171,10 +198,39 @@ We’re looking for: <br />
  just ordinary PEOPLE, ENTHUSIASTS, and SPECIALISTS from various fields who want to help change the world for the better. <br />
  Those who refuse to passively accept the silent catastrophe unfolding around us. <br />
  Caring people ready to cooperate to FIX OUR PRESENT and BUILD A BETTER FUTURE for everyone. <br />
- We welcome everyone who sincerely wants to help! <br />`,
+ We welcome everyone who sincerely wants to help! <br />
+ 
+</p>
+</details>
+`,
 
-  MembersList: `5✧︎ Members List`,
-  MembersListText: `(Names optional — otherwise just a chosen nickname)`
+  MembersList:  
+`
+<details open>
+<summary style="font-size: 2em;" class="MajorTextEn" >5✧︎ Members List</summary>
+<p class="MinorTextEn">
+
+(Names optional — otherwise just a chosen nickname)
+
+<p class="MinorTextEn">
+    1 Cog <br />
+    2 Act <br />
+    3 urМ <br />
+    4 ANk <br />
+    5 AKr <br />
+    6 reserved <br />
+    7 reserved <br />
+    8 reserved <br />
+    9 reserved <br />
+    10 reserved <br />
+    11 reserved <br />
+    12 reserved <br />
+    13 reserved <br />
+</p>
+
+</p>
+</details>
+`
     
   },
   ru: {
@@ -383,7 +439,7 @@ We’re looking for: <br />
 
   MembersList: 
 `<details open>
-<summary style="font-size: 2em;" class="MajorTextRu" >4✧︎ Как присоединиться | Контакты | В ком мы нуждаемся</summary>
+<summary style="font-size: 2em;" class="MajorTextRu" >5✧︎ Участники и Сторонники</summary>
 <p class="MinorTextRu"> 
 
 (имена по желанию, иначе номер и ник)
