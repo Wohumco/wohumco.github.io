@@ -180,7 +180,7 @@ We’re looking for: <br />
   ru: {
     HeadTitle: `Всемирная гуманистическая коалиция`,
     Title: `<div style="font-family: infant;">Всемирная гуманистическая коалиция</div>`,
-    GoalsAndSolutions: `<div class="MajorTextRu">1✧︎ Цели и Решения </div>`,
+    GoalsAndSolutions: `<summary style="font-size: 2em;" class="MajorTextRu" >1✧︎ Цели и Решения</summary>`,
     GoalsAndSolutionsText: `<div class="MinorTextRu">
       Постройте своими руками мир, в котором хочется жить вечно! <br /> <br />
   Мы стремимся к неизменной долгосрочной ЦЕЛИ - прийти к <br />
@@ -295,7 +295,7 @@ We’re looking for: <br />
 Мы будем рады поделиться идеями, подробностями и видением <br />
 А если Вам есть что добавить, мы открыты для предложений и готовы к доработке решений.<br />
 Давайте вместе начинать строить лучшее будущее уже сейчас!<br /><br /> </div>`,
-    AboutUs: `<div class="MajorTextRu">2✧︎ Про нас</div>`,
+    AboutUs: `<summary style="font-size: 2em;" class="MajorTextRu" >2✧︎ Про нас</summary>`,
     AboutUsText: 
       `<div class="MinorTextRu">В проработке с 2018 | In development since 2018 <br /><br />
       
@@ -328,7 +328,7 @@ We’re looking for: <br />
 Будем рады видеть Вас среди наших участников! <br />
 Постройте своими руками мир, в котором хочется жить вечно! <br /><br /> </div>`,
     
-    Roadmap: `<div class="MajorTextRu">3✧︎ Дорожная карта</div>`,
+    Roadmap: `<summary style="font-size: 2em;" class="MajorTextRu" >3✧︎ Дорожная карта</summary>`,
     RoadmapText: 
       `<div class="MinorTextRu">Этапы развития: <br /><br />
 Создание и продумывание общей идеи и решений ✅<br /><br />
@@ -339,7 +339,7 @@ We’re looking for: <br />
 Набор критической массы возможностей, специалистов и технических решений <br /><br />
 Объявление полноценной независимости; <br />
 Развитие и распространение</div>`,
-    HowToJoin: `<div class="MajorTextRu">4✧︎ Как присоединиться | Контакты | В ком мы нуждаемся</div>`,
+    HowToJoin: `<summary style="font-size: 2em;" class="MajorTextRu" >4✧︎ Как присоединиться | Контакты | В ком мы нуждаемся</summary>`,
     HowToJoinText: `<div class="MinorTextRu"><a href="https://docs.google.com/forms/d/e/1FAIpQLSczXyvpyWCtiCsGHqSbETrsUWAIl1W9ojQP4NIai0qhhcM7uw/viewform?usp=header">Гугл форма на участие</a> <br /><br />
       
       e-mail:  wohumco@gmail.com<br /><br />
@@ -350,7 +350,7 @@ We’re looking for: <br />
       Небезразличные люди, которые готовы ВМЕСТЕ ИСПРАВЛЯТЬ наше НАСТОЯЩЕЕ и вместе СТРОИТЬ лучшее БУДУЩЕЕ для всех людей. <br />
       Мы рады каждому, кто искренне готов помочь!</div>`,
 
-  MembersList: `<div class="MajorTextRu">5✧︎ Участники и Сторонники</div>`,
+  MembersList: `<summary style="font-size: 2em;" class="MajorTextRu" >5✧︎ Участники и Сторонники</summary>`,
   MembersListText: `<div class="MinorTextRu">(имена по желанию, иначе номер и ник)</div>`
   }
 };
