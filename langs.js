@@ -239,7 +239,7 @@ We’re looking for: <br />
     GoalsAndSolutions:
 `
 <details open>
-<summary style="font-size: 2em;" class="MajorTextRu" >1✧︎ Цели и Решения</summary>
+<summary class="MajorTextRu" >1✧︎ Цели и Решения</summary>
 <p class="MinorTextRu">
           Постройте своими руками мир, в котором хочется жить вечно! <br /> <br />
   Мы стремимся к неизменной долгосрочной ЦЕЛИ - прийти к <br />
@@ -361,7 +361,7 @@ We’re looking for: <br />
     AboutUs: 
 `
 <details open>
-<summary style="font-size: 2em;" class="MajorTextRu" >2✧︎ Про нас</summary>
+<summary class="MajorTextRu" >2✧︎ Про нас</summary>
 <p class="MinorTextRu">
 
 В проработке с 2018 | In development since 2018 <br /><br />
@@ -401,7 +401,7 @@ We’re looking for: <br />
     Roadmap: 
 `
 <details open>
-<summary style="font-size: 2em;" class="MajorTextRu" >3✧︎ Дорожная карта</summary>
+<summary class="MajorTextRu" >3✧︎ Дорожная карта</summary>
 <p class="MinorTextRu">
 
 Этапы развития: <br /><br />
@@ -420,7 +420,7 @@ We’re looking for: <br />
     HowToJoin: 
 `
 <details open>
-<summary style="font-size: 2em;" class="MajorTextRu" >4✧︎ Как присоединиться | Контакты | В ком мы нуждаемся</summary>
+<summary class="MajorTextRu" >4✧︎ Как присоединиться | Контакты | В ком мы нуждаемся</summary>
 <p class="MinorTextRu">
 
 <div class="MinorTextRu"><a href="https://docs.google.com/forms/d/e/1FAIpQLSczXyvpyWCtiCsGHqSbETrsUWAIl1W9ojQP4NIai0qhhcM7uw/viewform?usp=header">Гугл форма на участие</a> <br /><br />
@@ -439,7 +439,7 @@ We’re looking for: <br />
 
   MembersList: 
 `<details open>
-<summary style="font-size: 2em;" class="MajorTextRu" >5✧︎ Участники и Сторонники</summary>
+<summary class="MajorTextRu" >5✧︎ Участники и Сторонники</summary>
 <p class="MinorTextRu"> 
 
 (имена по желанию, иначе номер и ник)
