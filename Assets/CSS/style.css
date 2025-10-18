@@ -36,16 +36,19 @@
 }
 
 .MajorTextEn {
+  font-size: 2em;
   font-family: offside;
   color: #00d796;
 }
 
 .MinorTextRu {
+  font-size: 1.2em;
   font-family: infant;
   color: #0035A1;
 }
 
 .MajorTextRu {
+  font-size: 2.4em;
   font-family: infant;
   color: #00d796;
 }
