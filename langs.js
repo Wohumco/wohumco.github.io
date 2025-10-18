@@ -6,7 +6,7 @@ const translations = {
     GoalsAndSolutions: 
 `
 <details open>
-<summary style="font-size: 2em;" class="MajorTextEn" >1✧︎ Goals and Solutions</summary>
+<summary class="MajorTextEn" >1✧︎ Goals and Solutions</summary>
 <p class="MinorTextEn">
 
 Build with your own hands a world you would want to live in forever! <br /> <br />
@@ -124,7 +124,7 @@ Let's start building a better future together right now! <br />
     AboutUs: 
 `
 <details open>
-<summary style="font-size: 2em;" class="MajorTextEn" >2✧︎ About Us</summary>
+<summary class="MajorTextEn" >2✧︎ About Us</summary>
 <p class="MinorTextEn">
 
 In development since 2018 <br /> <br />
@@ -163,7 +163,7 @@ We would love to see you among us! <br />
     
     Roadmap: `
 <details open>
-<summary style="font-size: 2em;" class="MajorTextEn" >3✧︎ Roadmap</summary>
+<summary class="MajorTextEn" >3✧︎ Roadmap</summary>
 <p class="MinorTextEn">
 
 Development Stages: <br /> <br />
@@ -187,7 +187,7 @@ Initial concept and solution development ✅ <br /> <br />
     HowToJoin: 
 `
 <details open>
-<summary style="font-size: 2em;" class="MajorTextEn" >4✧︎ How to Join | Contacts | Needed Members</summary>
+<summary class="MajorTextEn" >4✧︎ How to Join | Contacts | Needed Members</summary>
 <p class="MinorTextEn">
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSczXyvpyWCtiCsGHqSbETrsUWAIl1W9ojQP4NIai0qhhcM7uw/viewform?usp=header">Google Form to Join</a> <br /><br />
@@ -207,7 +207,7 @@ We’re looking for: <br />
   MembersList:  
 `
 <details open>
-<summary style="font-size: 2em;" class="MajorTextEn" >5✧︎ Members List</summary>
+<summary class="MajorTextEn" >5✧︎ Members List</summary>
 <p class="MinorTextEn">
 
 (Names optional — otherwise just a chosen nickname)
