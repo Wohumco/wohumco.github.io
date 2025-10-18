@@ -31,10 +31,11 @@
 }
 
 .MinorText {
- font-family: "Calibri";
+ font-family: offside;
  color: #0035A1;
 }
 
 .MajorText {
+font-family: offside;
 color: #00d796;
 }
