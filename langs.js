@@ -180,9 +180,56 @@ We’re looking for: <br />
   ru: {
     HeadTitle: `Всемирная гуманистическая коалиция`,
     Title: `<div style="font-family: infant;">Всемирная гуманистическая коалиция</div>`,
-    GoalsAndSolutions: `<summary style="font-size: 2em;" class="MajorTextRu" >1✧︎ Цели и Решения</summary>`,
-    GoalsAndSolutionsText: `<div class="MinorTextRu">
-      Постройте своими руками мир, в котором хочется жить вечно! <br /> <br />
+
+
+
+
+
+    
+
+
+/*
+  
+<details open data-i18n="AboutUs">
+  <p class="MinorText" data-i18n="AboutUsText"></p>
+</details>
+  
+<details open data-i18n="Roadmap">
+  <p class="MinorText" data-i18n="RoadmapText"></p>
+</details>
+  
+<details open data-i18n="HowToJoin">
+  <p class="MinorText" data-i18n="HowToJoinText"></p>
+</details>
+  
+<details data-i18n="MembersList">
+  <p class="MinorText" data-i18n="MembersListText"></p>
+  <p class="MinorText">
+    1 Cog <br />
+    2 Act <br />
+    3 urМ <br />
+    4 ANk <br />
+    5 AKr <br />
+    6 reserved <br />
+    7 reserved <br />
+    8 reserved <br />
+    9 reserved <br />
+    10 reserved <br />
+    11 reserved <br />
+    12 reserved <br />
+    13 reserved <br />
+  </p>
+</details>
+
+*/
+
+    
+    GoalsAndSolutions:
+       `
+       <details open>
+        <summary style="font-size: 2em;" class="MajorTextRu" >1✧︎ Цели и Решения</summary>
+        <p class="MinorTextRu">
+          Постройте своими руками мир, в котором хочется жить вечно! <br /> <br />
   Мы стремимся к неизменной долгосрочной ЦЕЛИ - прийти к <br />
   принципиально новому и стабильному варианту устройства цивилизации, <br />
   где все разумные существа без исключения живут в благополучии, мире и процветании,<br />
@@ -294,7 +341,10 @@ We’re looking for: <br />
 Присоединяйтесь чтобы узнать больше! <br />
 Мы будем рады поделиться идеями, подробностями и видением <br />
 А если Вам есть что добавить, мы открыты для предложений и готовы к доработке решений.<br />
-Давайте вместе начинать строить лучшее будущее уже сейчас!<br /><br /> </div>`,
+Давайте вместе начинать строить лучшее будущее уже сейчас!<br /><br />
+        </p>
+       </details> 
+       `,
     AboutUs: `<summary style="font-size: 2em;" class="MajorTextRu" >2✧︎ Про нас</summary>`,
     AboutUsText: 
       `<div class="MinorTextRu">В проработке с 2018 | In development since 2018 <br /><br />
