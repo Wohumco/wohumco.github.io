@@ -24,8 +24,7 @@ Guided by the principles of: <br />
  Humanism and Benevolence, Compassion, Care and Mutual Support, <br />
  Justice and Prudence, Equality, Solidarity and Mutual Respect, <br />
  Progressiveness, Openness, and Transparency. <br />
-With endless love and belief in humanity, hope for a happy future, and our best wishes, <br />
- The First Cogitor <br /> <br />
+With endless love and belief in humanity, hope for a happy future, and our best wishes. <br /> <br />
 
 CORE SOLUTIONS: <br />
 Abolition of the monetary system and all its equivalents. <br />
@@ -257,8 +256,7 @@ We’re looking for: <br />
   Гуманизма и Благодетельности, Милосердия, Заботы и Взаимопомощи, <br />
   Справедливости и Рассудительности, Равноправия, Сплочённости и Взаимоуважения, <br />
   Прогрессивности, Открытости и Прозрачности,<br />
-С бесконечной любовью и верой в людей, надеждой на счастливое будущее и c наилучшими пожеланиями,<br />
-Первый Когитор<br /><br />
+С бесконечной любовью и верой в людей, надеждой на счастливое будущее и c наилучшими пожеланиями.<br /><br />
 
 ОСНОВНЫЕ РЕШЕНИЯ:<br />
 Отсутствие денежной системы и ей подобных. Все ресурсы являются РАВНОРАСПРЕДЕЛЁННЫМ ОБЩЕЧЕЛОВЕЧЕСКИМ БОГАТСТВОМ.<br />
